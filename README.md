@@ -49,14 +49,16 @@ Raw Data ➔ Python (EDA & Feature Engineering) ➔ SQL Analytics ➔ Power BI D
    
    https://github.com/tripathistuti2002-tech/Global-Superstore-End-to-End-Analytics/blob/main/Screenshot%202026-08-24%20222135.png
    
-3. **Sales Performance** – Revenue trends, markets & top products.
+2. **Sales Performance** – Revenue trends, markets & top products.
 
    https://github.com/tripathistuti2002-tech/Global-Superstore-End-to-End-Analytics/blob/main/Screenshot%202026-08-24%20222150.png
    
-5. **Profitability Analysis** – Margins, discounts & loss areas.
+3. **Profitability Analysis** – Margins, discounts & loss areas.
    
-7. **Customer & Segment** – Customer behavior (~51.7% sales from Consumer segment).
-8. **Operations & Shipping** – Delivery efficiency & shipping cost analysis.
+4. **Customer & Segment** – Customer behavior (~51.7% sales from Consumer segment).
+5. **Operations & Shipping** – Delivery efficiency & shipping cost analysis.
+
+   https://github.com/tripathistuti2002-tech/Global-Superstore-End-to-End-Analytics/blob/main/Screenshot%202026-08-24%20222230.png
 
 ---
 
