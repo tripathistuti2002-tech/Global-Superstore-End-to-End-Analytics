@@ -46,10 +46,12 @@ Raw Data ➔ Python (EDA & Feature Engineering) ➔ SQL Analytics ➔ Power BI D
 ##  Power BI Dashboard Structure
 
 1. **Executive Overview** – Business performance & KPIs.
-2. **Sales Performance** – Revenue trends, markets & top products.
-3. **Profitability Analysis** – Margins, discounts & loss areas.
-4. **Customer & Segment** – Customer behavior (~51.7% sales from Consumer segment).
-5. **Operations & Shipping** – Delivery efficiency & shipping cost analysis.
+   
+   https://github.com/tripathistuti2002-tech/Global-Superstore-End-to-End-Analytics/blob/main/Screenshot%202026-08-24%20222135.png
+3. **Sales Performance** – Revenue trends, markets & top products.
+4. **Profitability Analysis** – Margins, discounts & loss areas.
+5. **Customer & Segment** – Customer behavior (~51.7% sales from Consumer segment).
+6. **Operations & Shipping** – Delivery efficiency & shipping cost analysis.
 
 ---
 
