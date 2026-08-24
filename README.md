@@ -56,6 +56,8 @@ Raw Data ➔ Python (EDA & Feature Engineering) ➔ SQL Analytics ➔ Power BI D
 ## Business Recommendations
 
 * **APAC Focus:** Increase investment in APAC (top sales market) and double down on **Technology**.
+* **October Stock Audit:** Thoroughly check and optimize inventory in **October** to ensure stock availability ahead of high seasonal demand.
+* **November Seasonal Hiring:** Scale up temporary operational and logistics staffing in **November** to seamlessly handle peak sales volume
 * **Discount Control:** Cap discounts in **Texas** and **Binders** to protect margins.
 * **Logistics:** Reduce delivery costs in the **East Region** and promote **Standard Class** shipping.
 * **Pricing Fixes:** Revise pricing in low-profit cities (**Cajazeiras**) and cap hardware losses (*Cubify 3D Printer*).
