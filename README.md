@@ -54,7 +54,7 @@ Raw Data ➔ Python (EDA & Feature Engineering) ➔ SQL Analytics ➔ Power BI D
 
 ---
 
-## 🧠 Business Recommendations
+## Business Recommendations
 
 * **APAC Focus:** Increase investment in APAC (top sales market) and double down on **Technology**.
 * **Discount Control:** Cap discounts in **Texas** and **Binders** to protect margins.
