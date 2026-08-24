@@ -60,6 +60,6 @@ Raw Data ➔ Python (EDA & Feature Engineering) ➔ SQL Analytics ➔ Power BI D
 * **Discount Control:** Cap discounts in **Texas** and **Binders** to protect margins.
 * **Logistics:** Reduce delivery costs in the **East Region** and promote **Standard Class** shipping.
 * **Pricing Fixes:** Revise pricing in low-profit cities (**Cajazeiras**) and cap hardware losses (*Cubify 3D Printer*).
-* **VIP Retention:** Launch targeted loyalty programs for top profit contributors (**Customer ID: 1**).
+* **VIP Retention:** Launch targeted loyalty programs for top profit contributors (**Customer ID: 1 TC20980**).
 
 
