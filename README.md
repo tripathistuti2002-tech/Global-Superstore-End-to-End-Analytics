@@ -14,7 +14,7 @@ Raw Data ➔ Python (EDA & Feature Engineering) ➔ SQL Analytics ➔ Power BI D
 
 * **Python:** Data cleaning, Feature Engineering, and EDA.
 * **SQL:** Business queries and metric aggregation.
-* **Power BI:** Interactive executive dashboard.
+* **Power BI:** 5-page interactive executive dashboard.
 
 ---
 
@@ -49,8 +49,7 @@ Raw Data ➔ Python (EDA & Feature Engineering) ➔ SQL Analytics ➔ Power BI D
 2. **Sales Performance** – Revenue trends, markets & top products.
 3. **Profitability Analysis** – Margins, discounts & loss areas.
 4. **Customer & Segment** – Customer behavior (~51.7% sales from Consumer segment).
-5. **Product & Category** – Performance across Tech, Phones, Copiers & Chairs.
-6. **Operations & Shipping** – Delivery efficiency & shipping cost analysis.
+5. **Operations & Shipping** – Delivery efficiency & shipping cost analysis.
 
 ---
 
